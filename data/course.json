@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Religious Architecture"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural History and Criticism"
+    ],
+    [
+      "Society",
+      "Middle Eastern Studies"
+    ]
+  ],
+  "legacy_uid": "4ff997f3-6af1-8c01-7645-3bcf04cf3763",
+  "instructors": {
+    "content": [
+      "5503202e-ae5f-3583-186b-2f34720c9793"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7370719a-890e-9058-7a57-9880b1bb2c1f",
+    "website": "4-614-religious-architecture-and-islamic-cultures-fall-2002"
+  },
+  "course_title": "Religious Architecture and Islamic Cultures",
+  "course_description": "This course introduces the history of Islamic cultures through their most vibrant material signs: the religious architecture that spans fourteen centuries and three continents \u2014 Asia, Africa, and Europe. The course presents Islamic architecture both as a historical tradition and as a cultural catalyst that influenced and was influenced by the civilizations with which it came in contact.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.614",
+  "course_image_thumbnail": {
+    "content": "22b43355-7280-18b4-1f50-8fc1ae55d1d6",
+    "website": "4-614-religious-architecture-and-islamic-cultures-fall-2002"
+  },
+  "learning_resource_types": [
+    "Course Introduction",
+    "Image Gallery"
+  ],
+  "site_uid": "0b6acf2b-063a-4f1d-b844-5c078b225039",
+  "site_short_id": "4.614-fall-2002",
+  "title": "Course Metadata"
+}
